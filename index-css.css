@@ -82,11 +82,30 @@ ul li{
 
 }
 
+ul li:hover{
+    background-color:#000;
+    color: white;
+}
+
 main img{
     float:right;
     width:670px;
     margin-right:50px;
-    margin-bottom:20px;
+    margin-bottom:10px;
     border: 1px solid #000;
 }
 
+footer{
+    background-color:black;
+    padding:0px;
+    margin-top:240px;
+
+}
+
+footer p{
+    padding:20px 0px;
+    text-align:center;
+    color:white;
+    margin-top:-20px;
+    margin-bottom:-20px;
+}
