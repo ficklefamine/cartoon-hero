@@ -3,6 +3,11 @@ body{
     margin:0;
     padding:0;
 }
+
+/** WEBKIT SCROLLBAR **/
+::-webkit-scrollbar {background: #292929;; width:9px;}
+::-webkit-scrollbar-thumb {background:#1a1a1a; border: #292929 1px solid;}
+
 header{
     margin-top:0px;
     background-color:black;
