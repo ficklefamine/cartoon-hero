@@ -2,9 +2,12 @@ body{
     background-color:#91A5BE;
 }
 header{
-    height:450px;
-    width:auto;
-    background:#91A5BE;
+ 
+}
+header img{
+    display: block;
+    border: 10px solid #0F1417;
+    border-bottom-right-radius: 50%;
 }
 h1{
     text-align:center;
