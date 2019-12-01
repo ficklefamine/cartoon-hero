@@ -3,9 +3,10 @@ body{
 }
 header{
     height:450px;
+    width:auto;
     background:#91A5BE;
 }
 h1{
     text-align:center;
-    margin-bottom:20px;
+    
 }
