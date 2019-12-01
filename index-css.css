@@ -40,9 +40,10 @@ h2{
 
 
 main{
-    max-width:800px;
+    max-width:1200px;
     text-align:justify;
     margin:0 auto;
+    padding:0 20px;
     
 }
 
@@ -65,7 +66,7 @@ main ul{
    list-style-type:none;
   
    padding:0;
-   max-width:500px;
+   max-width:300px;
     margin-left:50px;
     position:relative;
 }
@@ -73,16 +74,17 @@ main ul{
 ul li{
     background-color:#4d4d4d;
     padding:10px;
-    width:440px;
+    width:350px;
     margin-top:10px;
     font-size:20px;
-border-right:20px solid #AA5761;
-outline: 1px solid #000;
+    border-right:20px solid #AA5761;
+
+
 }
 
 main img{
     float:right;
-    width:700px;
+    width:670px;
     margin-right:50px;
     margin-bottom:20px;
     border: 1px solid #000;
